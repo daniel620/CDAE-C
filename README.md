@@ -1,3 +1,3 @@
-Denoising Auto-Encoder for skin cancer
+Denoising Auto-Encoder for low dose chest CT
 
-Extracted features from encoder for detection and classification
+Extracting features from encoder for classification of lung nodules
