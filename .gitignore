@@ -1,7 +1,6 @@
-.*
-!.gitignore
-
-data/
-
-.DS_Store
+# .DS_Store
 */.DS_Store
+.*
+*/.*
+!.gitignore
+data/
