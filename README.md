@@ -1,4 +1,6 @@
-CDAE-C, Convolutional Denoising AutoEncoder and Classifier
+# CDAE-C, Convolutional Denoising AutoEncoder and Classifier
+
+Publication: <https://ieeexplore.ieee.org/document/10015922>
 
 Denoising Auto-Encoder for low dose chest CT
 
